@@ -33,7 +33,6 @@ I love building websites, creating apps, and turning ideas into real projects.
 
 My personal website for showcasing my work and projects.
 
-<a href="https://parhamdev.bazaar-apps.com">Visit My Website ↗</a>
 
 📱 Android Invoice App
 
