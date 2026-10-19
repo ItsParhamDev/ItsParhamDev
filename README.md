@@ -6,9 +6,10 @@ I love building websites, creating apps, and turning ideas into real projects.
 
 💡 Think • Build • Improve 🚀
 
-""GitHub" (https://img.shields.io/badge/GitHub-ItsParhamDev-181717?style=for-the-badge&logo=github)" (https://github.com/ItsParhamDev)
-
-</div>---
+<a href="https://github.com/ItsParhamDev">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/github.svg" width="35" alt="GitHub">
+  <strong> Visit My GitHub Profile</strong>
+</a></div>---
 
 🧑‍💻 About Me
 
@@ -23,7 +24,7 @@ I love building websites, creating apps, and turning ideas into real projects.
 🛠️ Skills & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,python" alt="HTML, CSS, Python" />
+  <img src="https://skillicons.dev/icons?i=html,css,python" alt="HTML, CSS, Python">
 </p>---
 
 🚀 My Projects
@@ -32,8 +33,9 @@ I love building websites, creating apps, and turning ideas into real projects.
 
 My personal website for showcasing my work and projects.
 
+<a href="https://parhamdev.bazaar-apps.com">Visit My Website ↗</a>
 
-📱 Android App
+📱 Android Invoice App
 
 An Android app I built to manage invoices and customer balances for a real business.
 
@@ -46,31 +48,36 @@ I'm working on new ideas and building more projects.
 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ItsParhamDev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ItsParhamDev&show_icons=true&theme=tokyonight" alt="GitHub Stats">
 </div>---
 
 💻 Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsParhamDev&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsParhamDev&layout=compact&theme=tokyonight" alt="Most Used Languages">
 </div>---
 
 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ItsParhamDev&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ItsParhamDev&theme=tokyonight" alt="GitHub Streak">
 </div>---
 
-👀 Profile Views
+👀 Profile
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ItsParhamDev&style=flat-square&color=blueviolet" alt="Profile Views" />
-</p>---
+<a href="https://github.com/ItsParhamDev">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/github.svg" width="25" alt="GitHub">
+  <strong>ItsParhamDev</strong>
+</a>
 
 🤝 Connect With Me
 
-- 🐙 GitHub: "@ItsParhamDev" (https://github.com/ItsParhamDev)
-- 🌐 Website: "ParhamDev" (https://parhamdev.bazaar-apps.com)
+<a href="https://github.com/ItsParhamDev">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/github.svg" width="25" alt="GitHub">
+  GitHub: @ItsParhamDev
+</a><br><br>
+
+<a href="https://parhamdev.bazaar-apps.com">🌐 ParhamDev Website</a>
 
 ---
 
