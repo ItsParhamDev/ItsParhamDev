@@ -76,7 +76,6 @@ I'm working on new ideas and building more projects.
   GitHub: @ItsParhamDev
 </a><br><br>
 
-<a href="https://parhamdev.bazaar-apps.com">🌐 ParhamDev Website</a>
 
 ---
 
